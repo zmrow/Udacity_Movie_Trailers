@@ -25,3 +25,7 @@ The repo contains multiple files:
 
 If you have any issues with the project, please feel free to open and [Issue] (https://github.com/zmrow/Udacity_Movie_Trailers/issues) or a [Pull Request] (https://github.com/zmrow/Udacity_Movie_Trailers/pulls).
 
+## TODO
+
+- Write tests (unit, integration)
+- Use The Movie Database (TMDB) API to pull down movie information
