@@ -3,12 +3,6 @@ Udacity Movie Trailers creates an awesome media center page containing links to 
 
 Udacity_Movie_Trailers is a project from the Udacity Full Stack Web Developer Nanodegree.  It is meant to establish a foundation in OO programming by creating a class "Movies", instantiating mutiple instances of said class, and generating a web page of movie trailers.  Awesome!!
 
-## Table of contents
-
--[Quick start] (#quick-start)
--[What's what] (#whats-what)
--[Issues?] (#issues)
-
 ## Quick start
 
 Pretty simple:
